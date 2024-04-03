@@ -5,4 +5,5 @@
 Оптимизация сайта  
 - Optimizilla для картинок. 
 - автопрефиксор   
-- манификация сайтов CSS minify, JS Minify   Favicon
+- манификация сайтов CSS minify, JS Minify
+- Favicon
